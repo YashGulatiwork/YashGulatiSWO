@@ -2,15 +2,14 @@
 <h1 align="center"style="font-family: 'Times New Roman';">Hi , I'm Yash Gulati</h1>
 <h3 align="center"style="font-family: 'Times New Roman';">A diligent student specializing in Artificial Intelligence and Machine Learning (AIML), possessing versatile skills in programming languages such as Java, Python, and JavaScript. Demonstrated proficiency in MEAN and MERN stack development, as well as extensive experience with MySQL and MongoDB databases.</h3>
 <img align="">
-<h2 style="font-family: 'Times New Roman';">Famous Quote :</h2>
-<h3 style="font-family: 'Times New Roman'; color="red"">"Code is like humor. When you have to explain it, it’s bad." - Cory House</h3>
+
 
 <h3 align="left" style="font-family: 'Times New Roman';">Github Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgulati-tlp" alt="yashgulati-tlp" /></a> </p>
 
 
 
-- 💬 Ask me about **Java, Angular, Node, Mysql, Python, JS**
+- 💬 Ask me about **AWS, AZURE and Cloud technologies**
 
 - 📫 How to reach me **messageyashgulati@gmail.com**
 
